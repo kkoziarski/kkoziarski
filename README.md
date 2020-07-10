@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Krzysztof!
+**Full Stack Dev** | **.NET & JavaScript Enthusiast** | **Code Fanatic**
+
+- 🔭 I’m currently working as **Senior .NET Developer**
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on .NET Core projects
+- 📫 How to reach me: [kkoziarski@GitHub](https://github.com/kkoziarski) | [kkoziarski@StackOverflow](https://stackoverflow.com/story/kkoziarski) | [krzyhoo@Twitter](https://twitter.com/krzyhoo) | [kkoziarski.github.io](https://kkoziarski.github.io)
+- 😄 Pronouns: he/him
+- 🔨 My technologies: ...
+
 <!--
 **kkoziarski/kkoziarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
