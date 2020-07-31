@@ -43,7 +43,7 @@ I'm Krzysztof!
 
 
 [![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure&link=https://github.com/kkoziarski)](https://github.com/kkoziarski) 
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat-square&logo=azureDevops&link=https://github.com/kkoziarski)](https://github.com/kkoziarski) 
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0175C2?style=flat-square&logo=azureDevops&link=https://github.com/kkoziarski)](https://github.com/kkoziarski) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/kkoziarski)](https://github.com/kkoziarski) 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&link=https://github.com/kkoziarski)](https://github.com/kkoziarski)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&link=https://github.com/kkoziarski)](https://github.com/kkoziarski) 
