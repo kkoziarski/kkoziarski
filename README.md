@@ -9,7 +9,7 @@ I'm Krzysztof!
 **Fullstack Dev** | **.NET & JavaScript Enthusiast** | **Code Fanatic**
 
 - 🔭 I’m currently working as **Senior .NET Developer**
-- 🌱 I’m currently playing with Polyglot Notebooks and LeetCode
+- 🌱 I’m currently playing with Polyglot Notebooks and algorithms
 - 💬 Ask me about anything, I'm happy to help ✌️
 - 📫 How to reach me: use the badges above
 - 😄 Pronouns: he/him/his
