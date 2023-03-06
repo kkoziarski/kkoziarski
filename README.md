@@ -10,8 +10,7 @@ I'm Krzysztof!
 **Fullstack Dev** | **.NET & JavaScript Enthusiast** | **Code Fanatic**
 
 - 🔭 I’m currently working as **Senior .NET Developer**
-- 🌱 I’m currently learning `ReactJS` <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-- 👯 I’m looking to collaborate on any Open Source project which I consider interesting, especially .NET Core projects
+- 🌱 I’m currently playing with Polyglot Notebooks and LeetCode
 - 💬 Ask me about anything, I'm happy to help ✌️
 - 📫 How to reach me: use the badges above
 - 😄 Pronouns: he/him/his
